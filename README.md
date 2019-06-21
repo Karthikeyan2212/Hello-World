@@ -1,1 +1,1 @@
-# Hello-World  to print hello world in python use this code
+# To print Hello World in python use this code
